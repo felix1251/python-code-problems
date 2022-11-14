@@ -1,1 +1,1 @@
-# python-sample-code-review-problems
+Technical code interview solutions that might help you.
